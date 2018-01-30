@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 151 151" style="enable-background:new 0 0 151 151;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;}
+	.st2{display:inline;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFFFFF;}
+	.st5{display:inline;fill:none;stroke:#898B8E;stroke-width:1.049;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st9{fill:none;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#FFFFFF;}
+</style>
+<g id="Background" class="st0">
+	<rect fill="#FFFFFF"  x="0.5" y="0.5" class="st5" width="150" height="150"/>
+</g>
+<g id="Icons">
+	<g>
+		<circle fill="#FFFFFF" class="st9" cx="90.5" cy="86.5" r="4"/>
+		<path fill="#FFFFFF"  class="st9" d="M61.9,47.5c-5.3,0-9.7,4.3-9.7,9.7s4.3,9.7,9.7,9.7c5.3,0,9.7-4.3,9.7-9.7S67.3,47.5,61.9,47.5z"/>
+		<rect fill="#FFFFFF"  x="36.5" y="74.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -40.5191 54.6248)" width="18.3" height="3"/>
+		<rect fill="#FFFFFF"  x="97.3" y="69.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -22.014 94.9115)" class="st6" width="12.6" height="9"/>
+		<rect fill="#FFFFFF"  x="113.3" y="56" transform="matrix(0.7072 -0.7071 0.7071 0.7072 -8.4623 100.4951)" class="st6" width="7.5" height="9"/>
+		<rect fill="#FFFFFF"  x="125.6" y="45.6" transform="matrix(0.7072 -0.707 0.707 0.7072 2.0078 104.9933)" class="st6" width="4.3" height="9"/>
+		<rect fill="#FFFFFF"  x="76.6" y="66.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -29.5335 76.9425)" width="3" height="14.7"/>
+		<path fill="#FFFFFF"  class="st6" d="M90.5,93.6c3.9,0,7-3.2,7-7s-3.2-7-7-7c-3.9,0-7,3.2-7,7S86.6,93.6,90.5,93.6z M90.5,82.5c2.2,0,4,1.8,4,4
+			s-1.8,4-4,4c-2.2,0-4-1.8-4-4S88.3,82.5,90.5,82.5z"/>
+		<circle fill="#FFFFFF" cx="28.1" cy="93.8" r="12.8"/>
+		<path fill="#FFFFFF"  class="st6" d="M74.6,57.2c0-7-5.7-12.7-12.7-12.7c-7,0-12.7,5.7-12.7,12.7s5.7,12.7,12.7,12.7
+			C68.9,69.9,74.6,64.2,74.6,57.2z M61.9,66.9c-5.3,0-9.7-4.3-9.7-9.7s4.3-9.7,9.7-9.7c5.3,0,9.7,4.3,9.7,9.7S67.3,66.9,61.9,66.9z"
+			/>
+	</g>
+</g>
+</svg>

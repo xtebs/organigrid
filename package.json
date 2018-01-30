@@ -1,0 +1,54 @@
+{
+    "name": "oclisboa",
+    "version": "1.0.0",
+    "description": "OCLisboa site",
+    "main": "index.js",
+    "scripts": {
+        "precommit": "echo '## Frontend: Let me check that code for you.\n'; lint-staged; echo '\n'",
+        "dev": "next",
+        "build": "next build && next export",
+        "start": "next start",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/appning/oclisboa.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/appning/oclisboa/issues"
+    },
+    "homepage": "https://github.com/appning/oclisboa#readme",
+    "dependencies": {
+        "create-react-class": "^15.6.2",
+        "jquery": "^3.3.1",
+        "next": "^4.2.3",
+        "react": "^16.2.0",
+        "react-bootstrap": "^0.32.0",
+        "react-dom": "^16.2.0"
+    },
+    "devDependencies": {
+        "husky": "^0.14.3",
+        "lint-staged": "^6.0.1",
+        "prettier": "^1.10.2"
+    },
+    "lint-staged": {
+        "pages/**/*.{js,jsx,json,css}": [
+            "prettier --single-quote --write",
+            "git add"
+        ],
+        "components/**/*.{js,jsx,json,css}": [
+            "prettier --single-quote --write",
+            "git add"
+        ],
+        "layouts/**/*.{js,jsx,json,css}": [
+            "prettier --single-quote --write",
+            "git add"
+        ],
+        "admin/**/*.{js,jsx,json,css}": [
+            "prettier --single-quote --write",
+            "git add"
+        ]
+    }
+}
