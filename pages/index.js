@@ -73,7 +73,7 @@ const sampleSlide1 = (
     <div className="slide-inner">
       <ol align="center">
          <img  src="static/market.svg" />
-          {"Consumption Smart Prediction."}
+          {"Energy Trading Market."}
       </ol>
     </div>
   </div>
